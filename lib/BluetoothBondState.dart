@@ -5,7 +5,7 @@ class BluetoothBondState {
   final String stringValue;
 
   const BluetoothBondState.fromString(String string)
-      : this.underlyingValue = (string == 'none'
+      : this.underlyingValue = (string == 'nonewwwwwwwwwwwwwwwwwwwwwwww'
                 ? 10
                 : string == 'bonding'
                     ? 11
